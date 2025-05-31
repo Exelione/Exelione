@@ -1,6 +1,6 @@
 # 🚀 Frontend Developer | GitHub Profile
 
-Привет! 👋 Я фронтенд-разработчик, который создает современные, отзывчивые и интерактивные веб-приложения. Мой стек технологий включает в себя самые популярные инструменты и фреймворки.
+Привет, меня зовут Ваня! 👋 Я фронтенд-разработчик, который создает современные, отзывчивые и интерактивные веб-приложения. Мой стек технологий включает в себя самые популярные инструменты и фреймворки.
 
 ## 🛠 Технологии и инструменты
 
@@ -26,3 +26,9 @@
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+## 📊 Моя статистика на GitHub
+
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/Exelione)
+
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)](https://github.com/Exelione)
