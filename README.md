@@ -7,7 +7,7 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=dark&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/Exelione)
-[![PR Stats](https://github-readme-stats.vercel.app/api/pin/?username=Exelione&repo=любой_репозиторий&show_owner=true&theme=dark)](https://github.com/Exelione?tab=repositories)
+[![PR Stats](https://github-readme-stats.vercel.app/api/pin/?username=Exelione&repo=MP_react_light&show_owner=true&theme=dark)](https://github.com/Exelione?tab=repositories)
 
 ## 📫 Связь со мной
 
