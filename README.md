@@ -6,6 +6,5 @@
 
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Exelione&theme=blue-green)](https://wakatime.com/@Exelione)
-![Custom Stats](https://raw.githubusercontent.com/Exelione/Exelione/main/profile-summary-card-output/название_темы/0-profile-details.svg)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=dark&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/Exelione)
 [![Stats](https://github-readme-stats.vercel.app/api?username=Exelione&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/Exelione)
