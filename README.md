@@ -10,7 +10,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=dark&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/Exelione)
 ## 📫 Связь со мной
 
-<a href="https://t.me/Exelione" target="_blank">
-  <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" style="transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.05)'" onmouseout="this.style.transform='scale(1)'">
-</a>
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Exelione) 
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:exelione@gmail.com)
 
