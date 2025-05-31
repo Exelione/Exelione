@@ -6,7 +6,9 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=dark&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/Exelione)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=dark&hide=html,css&exclude_repo=repo1,repo2)](https://github.com/Exelione)![Total PRs](https://img.shields.io/github/issues-pr/{Exelione}/{MP_react_light}?label=Total%20PRs)
+![Open PRs](https://img.shields.io/github/issues-pr/{owner}/{repo}?label=Open%20PRs&color=orange)
+![Merged PRs](https://img.shields.io/github/issues-pr-closed/{owner}/{repo}?label=Merged%20PRs&color=purple)
 ## 📫 Связь со мной
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Exelione) 
