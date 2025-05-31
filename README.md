@@ -29,6 +29,6 @@
 
 ## 📊 Моя статистика на GitHub
 
-[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical)](https://github.com/Exelione)
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=Exelione&show_icons=true&theme=radical)](https://github.com/Exelione)
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК&layout=compact&theme=radical)](https://github.com/Exelione)
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=Exelione&layout=compact&theme=radical)](https://github.com/Exelione)
