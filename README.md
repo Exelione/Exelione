@@ -12,6 +12,7 @@
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=redux&logoColor=white)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
+![Testing Library](https://img.shields.io/badge/-Testing%20Library-E33332?logo=testing-library&logoColor=white)
 ![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
@@ -21,6 +22,7 @@
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
 ![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=black)
 ![ESLint](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)
 
 
 
