@@ -11,6 +11,7 @@
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)
 ![MobX](https://img.shields.io/badge/-MobX-FF9955?logo=mobx&logoColor=white)
 ![Zustand](https://img.shields.io/badge/-Zustand-764ABC?logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)
 ![i18next](https://img.shields.io/badge/-i18next-26A69A?logo=i18next&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
