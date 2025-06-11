@@ -17,6 +17,7 @@
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?logo=webpack&logoColor=black)
 ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=white)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=&logo=styled-components&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white)
